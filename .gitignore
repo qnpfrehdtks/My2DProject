@@ -1,0 +1,8 @@
+Library/
+Temp/
+obj/
+.vs/
+Assets/_TerrainAutoUpgrade/
+*.csproj
+*.sln
+*.csp
